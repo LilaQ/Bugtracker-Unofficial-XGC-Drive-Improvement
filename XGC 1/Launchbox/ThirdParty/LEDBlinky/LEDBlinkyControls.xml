@@ -19208,6 +19208,21 @@
       </player>
     </controlGroup>
   </emulator>
+  <emulator romDefaultNameVoice="0" ignoreGameQuitCommand="0" emulatorIsMAME="0" emuname="Neo_Geo_Pocket" emuDesc="">
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
+        <control name="UI_SELECT" voice="" alwaysActive="0" color="White" inputCodes="KEYCODE_ENTER_PAD"/>
+        <control name="UI_CANCEL" voice="" alwaysActive="0" color="Red" inputCodes="KEYCODE_ESC"/>
+      </player>
+      <player number="1">
+        <control name="P1_START" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="COIN1" voice="Option" alwaysActive="0" color="Red" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON1" voice="A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+    </controlGroup>
+  </emulator>
   <frontEnd fename="MaLa">
     <controlGroup groupName="DEFAULT" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
       <player number="0">
