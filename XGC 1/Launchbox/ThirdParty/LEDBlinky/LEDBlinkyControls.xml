@@ -15490,8 +15490,10 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15520,8 +15522,10 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Black" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Black" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON9" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON10" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15534,26 +15538,10 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
-      </player>
-    </controlGroup>
-  </emulator>
-  <emulator emuname="Nintendo_Game_Boy_(Japan)" emuDesc="">
-    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
-      <player number="0">
-        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
-        <control name="UI_CANCEL" voice="" alwaysActive="1" color="Red" inputCodes="KEYCODE_ESC"/>
-        <control name="UI_PAUSE" voice="" alwaysActive="1" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
-        <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
-      </player>
-      <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
     </controlGroup>
   </emulator>
@@ -19220,6 +19208,36 @@
         <control name="COIN1" voice="Option" alwaysActive="0" color="Red" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+    </controlGroup>
+  </emulator>
+  <emulator romDefaultNameVoice="0" ignoreGameQuitCommand="0" emulatorIsMAME="0" emuname="Nintendo_Game_Boy_Color_Hacks" emuDesc="">
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" alwaysActive="0" color="Black" inputCodes="" primaryControl="1"/>
+        <control name="UI_CANCEL" voice="" alwaysActive="0" color="Red" inputCodes="KEYCODE_ESC"/>
+        <control name="UI_SELECT" voice="" alwaysActive="0" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON10" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+  </emulator>
+  <emulator romDefaultNameVoice="0" ignoreGameQuitCommand="0" emulatorIsMAME="0" emuname="Nintendo_Game_Boy_Hacks" emuDesc="">
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
+        <control name="UI_CANCEL" voice="" alwaysActive="0" color="Red" inputCodes="KEYCODE_ESC"/>
+        <control name="UI_SELECT" voice="" alwaysActive="0" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
     </controlGroup>
   </emulator>
