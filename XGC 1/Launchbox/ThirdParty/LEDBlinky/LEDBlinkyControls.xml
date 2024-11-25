@@ -2238,19 +2238,17 @@
       <player number="0">
         <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
         <control name="UI_CANCEL" voice="" alwaysActive="1" color="Red" inputCodes="KEYCODE_ESC"/>
-        <control name="UI_PAUSE" voice="" alwaysActive="1" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Left Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Right Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON2" voice="Start" alwaysActive="0" color="Orange" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Pause" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
+        <control name="P1_BUTTON1" voice="Left Start Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Right Start Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON10" voice="Select Buttons Overlay" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
       </player>
       <player number="2">
-        <control name="P2_BUTTON1" voice="Left Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_A"/>
-        <control name="P2_BUTTON2" voice="Right Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_S"/>
+        <control name="P2_BUTTON1" voice="Left Start Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_A"/>
+        <control name="P2_BUTTON2" voice="Right Start Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_S"/>
+        <control name="P2_BUTTON10" voice="Select Buttons Overlay" alwaysActive="0" color="White" inputCodes="KEYCODE_O"/>
       </player>
     </controlGroup>
   </emulator>
