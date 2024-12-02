@@ -860,6 +860,7 @@
         <control name="P1_BUTTON1" voice="Rotate Left" alwaysActive="0" color="Brown" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Trigger" alwaysActive="0" color="White" inputCodes="KEYCODE_COMMA"/>
         <control name="P1_BUTTON3" voice="Rotate Right" alwaysActive="0" color="Brown" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON10" voice="TOGGLE NUMPAD" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
       </player>
       <player number="2">
         <control name="P2_BUTTON1" voice="Rotate Left" color="Brown" alwaysActive="0" inputCodes="KEYCODE_A"/>
@@ -2471,16 +2472,16 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button 1" alwaysActive="0" color="White" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button 2" alwaysActive="0" color="White" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON4" voice="Button 3" alwaysActive="0" color="White" inputCodes="KEYCODE_LSHIFT"/>
-        <control name="P1_BUTTON5" voice="Button 4" alwaysActive="0" color="White" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON1" voice="Button 1" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="Button 2" alwaysActive="0" color="White" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON4" voice="Button 3" alwaysActive="0" color="White" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON5" voice="Button 4" alwaysActive="0" color="White" inputCodes="KEYCODE_X"/>
       </player>
       <player number="2">
-        <control name="P2_BUTTON1" voice="Button 1" color="White" alwaysActive="0" inputCodes="KEYCODE_A"/>
-        <control name="P2_BUTTON2" voice="Button 2" color="White" alwaysActive="0" inputCodes="KEYCODE_S"/>
-        <control name="P2_BUTTON4" voice="Button 3" color="White" alwaysActive="0" inputCodes="KEYCODE_W"/>
-        <control name="P2_BUTTON5" voice="Button 4" color="White" alwaysActive="0" inputCodes="KEYCODE_E"/>
+        <control name="P2_BUTTON1" voice="Button 1" alwaysActive="0" color="White" inputCodes="KEYCODE_O"/>
+        <control name="P2_BUTTON2" voice="Button 2" alwaysActive="0" color="White" inputCodes="KEYCODE_W"/>
+        <control name="P2_BUTTON3" voice="Button 3" alwaysActive="0" color="White" inputCodes="KEYCODE_E"/>
+        <control name="P2_BUTTON4" voice="Button 4" alwaysActive="0" color="White" inputCodes="KEYCODE_H"/>
       </player>
     </controlGroup>
   </emulator>
