@@ -19242,6 +19242,287 @@
       </player>
     </controlGroup>
   </emulator>
+  <emulator emuname="GAME_AND_WATCH" emuDesc="">
+    <controlGroup groupName="TURTLE_BRIDGE_(NINTENDO,_WIDE_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON3" voice="Left" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON4" voice="Right" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="WILD_MAN_JUMP_(VTECH,_ELECTRONIC_TINI-ARCADE)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="TENNIS_MENACE_(VTECH,_SPORTY_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON4" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Left" alwaysActive="0" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="Right" alwaysActive="0" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON9" voice="GAME SELECT BUTTON" alwaysActive="1" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON10" voice="START BUTTON" alwaysActive="1" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="ARMOR_BATTLE_(MATTEL_ELECTRONICS)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME LAUNCH" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="BANANA_(VTECH,_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="BOMB_FIGHT_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="CACCIA_AL_LADRO_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="CESSATE_IL_FUOCO_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="SNOOPY_(NINTENDO,_PANORAMA_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="White" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="HIT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="CRAZY_CHEWY_(VTECH,_ELECTRONIC_TINI-ARCADE)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DONKEY_KONG_(COLECO)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="DONKEY_KONG_II_(NINTENDO,_MULTI_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="DONKEY_KONG_JR._(COLECO)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="DUNGEONS_&amp;_DRAGONS_COMPUTER_FANTASY_GAME" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="ATTACK" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="MOVE" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="EGG_(NINTENDO,_WIDE_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON7" voice="MODE A BUTTON" color="Purple" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON8" voice="MODE B BUTTON" color="Purple" inputCodes="KEYCODE_V"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DUNGEONS_&amp;_DRAGONS_COMPUTER_FANTASY_GAME_(MATTEL_ELECTRONICS,_ARCADE_ACTION_SERIES)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="ATTACK" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="MOVE" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="PENGUIN_LAND_(BANDAI,_LSI_GAME_DOUBLE_PLAY)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT SCREEN LEFT" color="Orange" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="LEFT SCREEN RIGHT" color="Orange" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="LEFT SCREEN SHOOT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON4" voice="RIGHT SCREEN LEFT" color="Orange" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="RIGHT SCREEN RIGHT" color="Orange" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON6" voice="RIGHT SCREEN SHOOT" color="Red" inputCodes="KEYCODE_SPACE"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="SLEEP_WALKER_(VTECH,_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="SNOOPY_TENNIS_(NINTENDO,_WIDE_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="UP" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON2" voice="DOWN" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON3" voice="HIT" color="Red" inputCodes="KEYCODE_C"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="SUB_CHASE_(MATTEL_ELECTRONICS)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME LAUNCH" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MONKEY_JUMP_(VTECH,_ARCADE_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MOTOR_CROSS_(QUEENTEX)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="PAC_MAN_(TOMYTRONIC)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTPON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="CHICKY_WOGGY_(VTECH,_ARCADE_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="EXPLORERS_OF_SPACE_(ELEKTRONIKA)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="FOWLING_(ELEKTRONIKA)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="FROG_BOASTER_(ELEKTRONIKA)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="HIPPO_TEETH_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="GRAB_MAN_(UNKNOWN_MANUFACTURER,_GAME_&amp;_TIME)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="GALAXY_II_(EPOCH)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="SHOOT" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MARIO_BROS._(NINTENDO,_MULTI_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MARIO'S_BOMBS_AWAY_(NINTENDO,_PANORAMA_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="UP DOWN" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+  </emulator>
   <frontEnd fename="MaLa">
     <controlGroup groupName="DEFAULT" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
       <player number="0">
