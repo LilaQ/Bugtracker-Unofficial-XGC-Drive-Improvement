@@ -717,6 +717,7 @@
         <control name="COIN1" voice="Pause" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="Fire 1" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Fire 2" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON5" voice="TOGGLE NUMPAD" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
       </player>
       <player number="2">
         <control name="P2START" voice="Start" alwaysActive="0" color="Green" inputCodes="KEYCODE_2"/>
@@ -19520,6 +19521,34 @@
     <controlGroup groupName="MARIO'S_BOMBS_AWAY_(NINTENDO,_PANORAMA_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
       <player number="1">
         <control name="P1_BUTTON1" voice="UP DOWN" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+  </emulator>
+  <emulator emuname="DOOM" emuDesc="">
+    <controlGroup groupName="DOOM" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="FIRE" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="PREVIOUS WEAPON" color="Lime" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON3" voice="NEXT WEAPON" color="Lime" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="QUICKLOAD" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON5" voice="QUICKSAVE" color="White" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON6" voice="TOGGLE RUN" color="Yellow" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON7" voice="INTERACT" color="Orange" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON8" voice="SHOW MAP" color="Yellow" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DOOM2" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="FIRE" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="PREVIOUS WEAPON" color="Lime" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON3" voice="NEXT WEAPON" color="Lime" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="QUICKLOAD" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON5" voice="QUICKSAVE" color="White" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON6" voice="TOGGLE RUN" color="Yellow" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON7" voice="INTERACT" color="Orange" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON8" voice="SHOW MAP" color="Yellow" inputCodes="KEYCODE_X"/>
       </player>
       <player number="0"/>
     </controlGroup>
