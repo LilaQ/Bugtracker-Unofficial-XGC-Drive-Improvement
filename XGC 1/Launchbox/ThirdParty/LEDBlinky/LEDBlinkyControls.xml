@@ -735,12 +735,13 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1START" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
-        <control name="COIN1" voice="Pause" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="Left Button" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Right Button" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON3" voice="Left Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_SPACE"/>
-        <control name="P1_BUTTON6" voice="Right Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON3" voice="Left Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON6" voice="Right Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON7" voice="RESET AND CONFIRM" alwaysActive="0" color="White" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON8" voice="SELECT" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON9" voice="START" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
       </player>
       <player number="2">
         <control name="P2START" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_2"/>
