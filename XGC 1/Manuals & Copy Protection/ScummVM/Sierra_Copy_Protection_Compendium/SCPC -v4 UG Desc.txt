@@ -1,0 +1,23 @@
+[b]A couple years ago I ran across a nice compilation of copy protection codes for Sierra games.  I couldn't find this anywhere on the net any more so I decided to upload it here.  Presenting...[/b]
+
+[img]http://www.underground-gamer.com/imagebucket/SCPC.png[/img]
+
+[quote=Cap'n Ascii]
+What is the SCPC?
+
+The Sierra Copy Protection Compendium, or SCPC, is a collection of all the copy-protection material related to Sierra On-Line adventure games that I could find.
+
+Drawing from both my own collection of Sierra manuals and some on-line sources (which are credited in the proper places), I have gathered up (almost) all of the information needed to pass every copy-protection check that exists in Sierra's various games. I have assembled this information in (hopefully) easy-to-understand formats, and created a series of HTML indexes to allow quick, easy browsing of the material.
+[/quote]
+
+
+[b]Torrent update, March 3, 2007[/b]
+This is a slightly expanded version of the SCPC torrent.  Sahil Javeri found the copy protection posted at SierraGamers, and asked me to add it to SCPC since Cap'n Ascii has gone AWOL.
+
+
+[b]Torrent contents and instructions[/b]
+Zipped folder, as originally found, of 93 files/folders of images and html.  Make sure to read the "Read Me" file, especially the part that says, "MAKE SURE you enable the 'Use folder names' option!"
+
+
+[b]Related Torrents[/b]
+[url=http://www.underground-gamer.com/details.php?id=14895]Sierra Adventures Pack - Version 6.0 Repackaged (99 Games) [Adventure/1990][/url] by [url=http://www.underground-gamer.com/userdetails.php?id=34821]Toblerone[/url]
