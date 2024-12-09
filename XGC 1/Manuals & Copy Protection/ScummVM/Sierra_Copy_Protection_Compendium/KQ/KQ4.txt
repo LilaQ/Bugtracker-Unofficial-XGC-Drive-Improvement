@@ -1,0 +1,91 @@
+==========================
+MANUAL
+Page# - Paragraph# - Word#
+
+2 - 2pp - 8w - LIVED
+2 - 2pp - 4w - KINGDOM
+2 - 1pp - 4w - LEGEND
+2 - 2pp - 6w - DAVENTRY
+3 - 1pp - 4w - BRAVEST
+3 - 3pp - 4w - VENTURED
+3 - 3pp - last - CROWN
+3 - 1pp - 6w - MOST
+3 - 2pp - 3w - RETURN
+3 - 1pp - 10w - KNIGHTS
+3 - 3pp - 8w - DARED
+4 - 1pp - 3w - RULED
+4 - 2pp - 2w - WOULD
+4 - 1pp - 6w - LAND
+4 - 3pp - last - VELVET
+4 - 1pp - 7w - WITH
+4 - 3pp - 3w - MIST
+4 - 3pp - 4w - CLEARED
+4 - 3pp - 8w - IMAGE
+5 - 2pp - 5w - SUDDENLY
+5 - 3pp - 8w - VOWED
+5 - 5pp - 7w - GRAHAM
+5 - 2pp - 3w - HEART
+5 - 3pp - 2w - MIRROR
+5 - 1pp - 4w - TEARS
+5 - 4pp - 8w - VOICE
+5 - 5pp - 9w - INDEED
+6 - 1pp - 9w - RESCUED
+6 - 2pp - 4w - WITHIN
+6 - 2pp - last - TERROR
+6 - 2pp - 8w - RUMBLINGS
+6 - 2pp - 6w - FORESTS
+6 - 1pp - 3w - MARRIED
+7 - 1pp - 10w - WIZARD
+7 - 3pp - 2w - WOULD
+7 - 3pp - 9w - FEAR
+7 - 1pp - 1w - MEANWHILE
+7 - 2pp - 5w - POWERFUL
+7 - 2pp - 3w - SOLITUDE
+8 - 3pp - 2w - ENTIRE
+8 - 1pp - last - SORROW
+8 - 1pp - 1w - TIME
+8 - 1pp - 5w - CHANGES
+8 - 3pp - 6w - RESCUE
+8 - 3pp - 2w - ENTIRE
+8 - 3pp - 9w - DOWNFALL
+9 - 1pp - 3w - LEGEND
+9 - 1pp - 4w - SHORTLY
+9 - 1pp - 7w - RESCUE
+9 - 2pp - 7w - NOBLEST
+
+=======================
+OVERVIEW
+Paragraph# - Word#
+
+1pp - 2w - SIERRA
+1pp - 6w - GAME
+2pp - 1w - EACH
+2pp - 3w - ANIMATED
+
+=======================
+TIPS
+Tip# - Paragraph# - Word#
+
+1 - 1pp - 1w - BASIC
+1 - 1pp - 6w - INTERACT
+2 - 1pp - 5w - NATURE
+2 - 2pp - 4w - ENCOUNTER
+2 - 1pp - 8w - ADVENTURE
+2 - 2pp - 8w - CHARACTER
+3 - 1pp - last - CLUES
+3 - 1pp - 4w - EXAMINE
+3 - 1pp - 1w - LOOK
+4 - 1pp - 7w - PLACE
+4 - 1pp - 5w - INCLUDES
+4 - 1pp - 1w - DRAW
+4 - 1pp - 9w - VISIT
+5 - 1pp - 9w - NIGHT
+5 - 1pp - 4w - TAMIR
+5 - 1pp - 7w - TERRIFYING
+5 - 1pp - last - TEAMS
+6 - 1pp - last - BRIDLE
+7 - 1pp - last - FUNCTION
+8 - 1pp - 6w - TRICK
+8 - 2pp - 3w - REASON
+8 - 1pp - 4w - EVERY
+8 - 1pp - last - SPELL

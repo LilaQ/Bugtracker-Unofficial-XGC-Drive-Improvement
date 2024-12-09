@@ -1,0 +1,44 @@
+<html>
+
+<head>
+<title>SCPC - The Sierra Copy Protection Compendium: Leisure Suit Larry: Magna Cum Laude</title>
+</head>
+
+<body STYLE="{background:#000;}" text="white" link="red">
+<img src="SCPC-LSL8.png" ALT="Title image">
+<p>
+
+<h2>Removing the "Censored" Bars</h2>
+<p>
+Technically speaking, this isn't actually copy protection. However, considering that most of Larry's fans will likely want this information (cough), it is presented here anyway.
+<p>
+In reality, Leisure Suit Larry: MCL has full frontal nudity, a first in the Larry series (and 3D to boot!). However, to appease the censors (or maybe just 'cause it's funny), the game generates a "CENSORED" bar to cover the characters' shame whenever they're exposed.
+<p>
+Although the game is by no means unplayable the way it is, wouldn't it be so much more entertaining if you could remove those damned bars and have the complete bare-assed experience? Well, guess what...you can!
+<p>
+It's easy, in fact. All you need (aside from the game, of course) is a hex editor. Assuming you have one (and know how to use it), follow these instructions:
+<p>
+1) In your LSL:MCL directory, go into the 'Data' subdirectory, then 'JamFiles', then 'PC'. Here, look for a file called APPINIT.JAM.
+<p>
+2) Make a back-up copy of this file to a safe place, in case you screw this up.
+<p>
+3) Open the original APPINIT.JAM file in your hex editor. Using the find/search function, search for the word "NudityMode". If done properly, this search will turn up a section of the file reading "NudityMode Type Boolean Data 0".
+<p>
+4) In case you aren't familiar with programming, I'll tell you that this chunk of data is an on/off switch, controlling the presence (or absence) of the "CENSORED" bars. Currently, the data reads "0"; the 'nude' switch is "off". Let's fix that, shall we?
+<p>
+5) Use the editor to change the "0" to a "1". The string should now read "NudityMode Type Boolean Data 1". Congratulations, you've just eliminated the "CENSORED" bars.
+<p>
+6) Save the edited APPINIT.JAM file, then start up LSL:MCL. Assuming everything went smoothly, the "CENSORED" bars will no longer appear in the game. Way to go, you pervert.
+<p>
+If problems occur for some reason, replace the modified APPINIT.JAM file with the back-up you made earlier, and try again.
+<p>
+NOTE: This alteration will NOT affect the game's FMV (pre-rendered) cutscenes. The "CENSORED" bars in those are part of the recorded media, and cannot be removed.
+<p>
+<i>This information was gleaned from postings on the <a href="http://www.gamefaqs.com/">GameFAQs</a> LSL:MCL message board.</i>
+<p>
+
+<a href="LSL.html">Back to the Larry index</a>
+<br>
+<a href="../index.html">Back to the main SCPC index</a>
+</body>
+</html>

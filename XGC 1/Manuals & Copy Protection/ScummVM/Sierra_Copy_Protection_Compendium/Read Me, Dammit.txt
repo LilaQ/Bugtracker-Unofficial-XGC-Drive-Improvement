@@ -1,0 +1,28 @@
+THE SIERRA COPY PROTECTION COMPENDIUM, v4
+(optimized for her pleasure!)
+
+Compiled by Cap'n Ascii
+=====================================
+
+INSTALLATION:
+It's easy, really. Using WinZip, or whatever other Zip-capable program you have, unzip the archive into a new subdirectory. MAKE SURE you enable the "Use folder names" option! The HTML indexes rely on every file being in specifically-names subdirectories...don't go moving things around or renaming things, or the indexes won't work anymore. You can move the root SCPC directory if you want, though.
+
+Once unzipped, simply open the INDEX.HTML file in your favorite browser for quick, painless browsing through the Compendium. Whee!
+
+UNINSTALLATION
+Uhh...just delete the SCPC directory.
+
+UPDATES
+To update the SCPC, just download and install the highly invasive SCPC auto-update software package, which will then automatically connect to the Internet to search for updates to the SCPC, updates to the SCPC updater, updates for all of the games covered in the SCPC, updates for your video and sound cards, any Windows Service Packs you may be missing, and free pornography.
+
+Or, just go back to wherever you got this archive from. Though the Compendium is mostly complete already, any updates I might make will be uploaded to all authorized hosts as soon as I finish them.
+
+CONTRIBUTIONS
+If you have copy-protection information or manual scans for a missing entry in the SCPC, or if you wish to point out an error on my part, you can find contact information on the "About" page in the Compendium itself.
+
+THANKS
+I'd like to thank some folks in particular, for helping me with the SCPC:
+
+ElusiveOne, for getting me the missing information from Laura Bow 2's entry. Thanks, buddy!
+
+Orieac, for getting me to optimize the SCPC's numerous graphics files, resulting in a *massive* decrease in filesize. Way to go, man!

@@ -1,0 +1,32 @@
+HOMING BEACON PUZZLE
+
+Opening up the datacorder (and who doesn't have one by now) displays a grid of 5 slots (called Sensor Arrays), lettered A through E. Each of the five slots has a jumper switch that can be moved to any of five IRK settings - IRK1, IRK3, IRK5, IRK7, and IRK9.
+
+There are five subcircuit plates that can be moved from slot to slot. These are the Tachyon Transmitter (TT), the Particle Shield (PS), the Subspace Emitter (SE), the Recalibrating Fluctuator (RF), and the Feedback Cutter-Offer (FC).
+
+Each of these circuit plates has a socket that can hold any of five chips: the Dentium, the Repentium, the Fermentium, the Spentium, and the Dimtel.
+
+To construct the homing beacon, you must:
+-Figure out which plate goes into which Sensor Array
+-Insert the correct chip into each plate's socket
+-Assign the correct IRK jumper number to each plate's array.
+
+All five plates are needed to create the homing beacon.
+
+--------------------
+
+We know that the Feedback Cutter-Offer and Tachyon Transmitter plates need to follow certain configuration rules explained below. But, some confusion about the remaining three plates (Recalibrating Fluctuator, Subspace Emitter, and Particle Shield) still exists.
+
+Of these three, we know that:
+-One must be placed at Sensor Array E
+-One of the others must be set to IRK1
+-The remaining plate uses the Spentium chip
+
+We do know for sure that:
+-The Tachyon Transmitter should use the Dentium chip and should NOT be placed in Sensor Array C.
+-The Particle Shield should NOT be placed at Sensor Array E.
+-The Subspace Emitter should NOT use IRK7.
+-The Recalibrating Fluctuator should placed in Sensor Array A and be set to IRK9.
+-The Feedback Cutter-Offer won't work with the Fermentium chip, and should NOT go in Sensor Arrays B or C.
+-The plate that uses the Dimtel chip should be set to IRK3.
+-The plate in Sensor Array D must be set to IRK5.
