@@ -698,9 +698,41 @@
       </player>
       <player number="1">
         <control name="P1_BUTTON1" voice="Fire Button" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="LEFT DIFFICULTY SETTING A" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON3" voice="LEFT DIFFICULTY SETTING B" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON4" voice="SELECT BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="RESET BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
       </player>
       <player number="2">
         <control name="P2_BUTTON1" voice="Fire Button " color="Red" alwaysActive="0" inputCodes="KEYCODE_A"/>
+        <control name="P2_BUTTON2" voice="RIGHT DIFFICULTY SETTING A" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_O"/>
+        <control name="P2_BUTTON3" voice="RIGHT DIFFICULTY SETTING B" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_U"/>
+        <control name="P2_BUTTON4" voice="SELECT BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_6"/>
+        <control name="P2_BUTTON5" voice="RESET BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_2"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="OMEGA_RACE_(USA)" voice="" numPlayers="2" alternating="0" jukebox="0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" color="" inputCodes=""/>
+        <control name="UI_CANCEL" voice="" color="Red" inputCodes="KEYCODE_ESC"/>
+        <control name="UI_PAUSE" voice="" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
+        <control name="UI_SELECT" voice="" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Fire Button" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="LEFT DIFFICULTY SETTING A" color="Yellow" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON3" voice="LEFT DIFFICULTY SETTING B" color="Yellow" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON4" voice="SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="RESET BUTTON" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON7" voice="BOOSTER BUTTON" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+      <player number="2">
+        <control name="P2_BUTTON1" voice="Fire Button " color="Red" inputCodes="KEYCODE_A"/>
+        <control name="P2_BUTTON2" voice="RIGHT DIFFICULTY SETTING A" color="Yellow" inputCodes="KEYCODE_O"/>
+        <control name="P2_BUTTON3" voice="RIGHT DIFFICULTY SETTING B" color="Yellow" inputCodes="KEYCODE_U"/>
+        <control name="P2_BUTTON4" voice="SELECT BUTTON" color="White" inputCodes="KEYCODE_6"/>
+        <control name="P2_BUTTON5" voice="RESET BUTTON" color="White" inputCodes="KEYCODE_2"/>
+        <control name="P2_BUTTON6" voice="BOOSTER BUTTON" color="Red" inputCodes="KEYCODE_S"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15301,15 +15333,15 @@
       </player>
       <player number="1">
         <control name="P1START" voice="Player 1 Start" alwaysActive="1" color="White" inputCodes="KEYCODE_1"/>
-        <control name="COIN1" voice="Player 1 Select" alwaysActive="1" color="Green" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON3" voice="Player 1 Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
       <player number="2">
         <control name="P2START" voice="Player 2 Start" alwaysActive="1" color="White" inputCodes="KEYCODE_2"/>
-        <control name="COIN2" voice="Player 2 Select" alwaysActive="1" color="Green" inputCodes="KEYCODE_6"/>
         <control name="P2_BUTTON1" voice="Button B" color="Red" alwaysActive="0" inputCodes="KEYCODE_A"/>
         <control name="P2_BUTTON2" voice="Button A" color="Red" alwaysActive="0" inputCodes="KEYCODE_S"/>
+        <control name="P2_BUTTON3" voice="Player 2 Select" alwaysActive="0" color="White" inputCodes="KEYCODE_6"/>
       </player>
     </controlGroup>
   </emulator>
