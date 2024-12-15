@@ -698,9 +698,41 @@
       </player>
       <player number="1">
         <control name="P1_BUTTON1" voice="Fire Button" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="LEFT DIFFICULTY SETTING A" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON3" voice="LEFT DIFFICULTY SETTING B" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON4" voice="SELECT BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="RESET BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
       </player>
       <player number="2">
         <control name="P2_BUTTON1" voice="Fire Button " color="Red" alwaysActive="0" inputCodes="KEYCODE_A"/>
+        <control name="P2_BUTTON2" voice="RIGHT DIFFICULTY SETTING A" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_O"/>
+        <control name="P2_BUTTON3" voice="RIGHT DIFFICULTY SETTING B" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_U"/>
+        <control name="P2_BUTTON4" voice="SELECT BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_6"/>
+        <control name="P2_BUTTON5" voice="RESET BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_2"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="OMEGA_RACE_(USA)" voice="" numPlayers="2" alternating="0" jukebox="0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" color="" inputCodes=""/>
+        <control name="UI_CANCEL" voice="" color="Red" inputCodes="KEYCODE_ESC"/>
+        <control name="UI_PAUSE" voice="" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
+        <control name="UI_SELECT" voice="" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Fire Button" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="LEFT DIFFICULTY SETTING A" color="Yellow" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON3" voice="LEFT DIFFICULTY SETTING B" color="Yellow" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON4" voice="SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="RESET BUTTON" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON7" voice="BOOSTER BUTTON" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+      <player number="2">
+        <control name="P2_BUTTON1" voice="Fire Button " color="Red" inputCodes="KEYCODE_A"/>
+        <control name="P2_BUTTON2" voice="RIGHT DIFFICULTY SETTING A" color="Yellow" inputCodes="KEYCODE_O"/>
+        <control name="P2_BUTTON3" voice="RIGHT DIFFICULTY SETTING B" color="Yellow" inputCodes="KEYCODE_U"/>
+        <control name="P2_BUTTON4" voice="SELECT BUTTON" color="White" inputCodes="KEYCODE_6"/>
+        <control name="P2_BUTTON5" voice="RESET BUTTON" color="White" inputCodes="KEYCODE_2"/>
+        <control name="P2_BUTTON6" voice="BOOSTER BUTTON" color="Red" inputCodes="KEYCODE_S"/>
       </player>
     </controlGroup>
   </emulator>
@@ -717,6 +749,7 @@
         <control name="COIN1" voice="Pause" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="Fire 1" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Fire 2" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON5" voice="TOGGLE NUMPAD" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
       </player>
       <player number="2">
         <control name="P2START" voice="Start" alwaysActive="0" color="Green" inputCodes="KEYCODE_2"/>
@@ -735,12 +768,13 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1START" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
-        <control name="COIN1" voice="Pause" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="Left Button" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Right Button" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON3" voice="Left Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_SPACE"/>
-        <control name="P1_BUTTON6" voice="Right Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON3" voice="Left Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON6" voice="Right Difficulty" alwaysActive="0" color="Brown" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON7" voice="RESET AND CONFIRM" alwaysActive="0" color="White" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON8" voice="SELECT" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON9" voice="START" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
       </player>
       <player number="2">
         <control name="P2START" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_2"/>
@@ -825,10 +859,12 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Bottom Button" alwaysActive="0" color="Black" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Top Button" alwaysActive="0" color="Black" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Pause" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Option 1" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Pause" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Flip Screen" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="Option 1 Button" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON4" voice="Option 2 Button" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_Z"/>
       </player>
     </controlGroup>
   </emulator>
@@ -860,6 +896,7 @@
         <control name="P1_BUTTON1" voice="Rotate Left" alwaysActive="0" color="Brown" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Trigger" alwaysActive="0" color="White" inputCodes="KEYCODE_COMMA"/>
         <control name="P1_BUTTON3" voice="Rotate Right" alwaysActive="0" color="Brown" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON10" voice="TOGGLE NUMPAD" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
       </player>
       <player number="2">
         <control name="P2_BUTTON1" voice="Rotate Left" color="Brown" alwaysActive="0" inputCodes="KEYCODE_A"/>
@@ -2238,19 +2275,17 @@
       <player number="0">
         <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
         <control name="UI_CANCEL" voice="" alwaysActive="1" color="Red" inputCodes="KEYCODE_ESC"/>
-        <control name="UI_PAUSE" voice="" alwaysActive="1" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Left Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Right Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON2" voice="Start" alwaysActive="0" color="Orange" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Pause" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
+        <control name="P1_BUTTON1" voice="Left Start Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Right Start Button" alwaysActive="0" color="Orange" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON10" voice="Select Buttons Overlay" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
       </player>
       <player number="2">
-        <control name="P2_BUTTON1" voice="Left Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_A"/>
-        <control name="P2_BUTTON2" voice="Right Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_S"/>
+        <control name="P2_BUTTON1" voice="Left Start Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_A"/>
+        <control name="P2_BUTTON2" voice="Right Start Button" color="Orange" alwaysActive="0" inputCodes="KEYCODE_S"/>
+        <control name="P2_BUTTON10" voice="Select Buttons Overlay" alwaysActive="0" color="White" inputCodes="KEYCODE_O"/>
       </player>
     </controlGroup>
   </emulator>
@@ -2473,16 +2508,16 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button 1" alwaysActive="0" color="White" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button 2" alwaysActive="0" color="White" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON4" voice="Button 3" alwaysActive="0" color="White" inputCodes="KEYCODE_LSHIFT"/>
-        <control name="P1_BUTTON5" voice="Button 4" alwaysActive="0" color="White" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON1" voice="Button 1" alwaysActive="0" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="Button 2" alwaysActive="0" color="White" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON4" voice="Button 3" alwaysActive="0" color="White" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON5" voice="Button 4" alwaysActive="0" color="White" inputCodes="KEYCODE_X"/>
       </player>
       <player number="2">
-        <control name="P2_BUTTON1" voice="Button 1" color="White" alwaysActive="0" inputCodes="KEYCODE_A"/>
-        <control name="P2_BUTTON2" voice="Button 2" color="White" alwaysActive="0" inputCodes="KEYCODE_S"/>
-        <control name="P2_BUTTON4" voice="Button 3" color="White" alwaysActive="0" inputCodes="KEYCODE_W"/>
-        <control name="P2_BUTTON5" voice="Button 4" color="White" alwaysActive="0" inputCodes="KEYCODE_E"/>
+        <control name="P2_BUTTON1" voice="Button 1" alwaysActive="0" color="White" inputCodes="KEYCODE_O"/>
+        <control name="P2_BUTTON2" voice="Button 2" alwaysActive="0" color="White" inputCodes="KEYCODE_W"/>
+        <control name="P2_BUTTON3" voice="Button 3" alwaysActive="0" color="White" inputCodes="KEYCODE_E"/>
+        <control name="P2_BUTTON4" voice="Button 4" alwaysActive="0" color="White" inputCodes="KEYCODE_H"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15298,15 +15333,15 @@
       </player>
       <player number="1">
         <control name="P1START" voice="Player 1 Start" alwaysActive="1" color="White" inputCodes="KEYCODE_1"/>
-        <control name="COIN1" voice="Player 1 Select" alwaysActive="1" color="Green" inputCodes="KEYCODE_5"/>
         <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON3" voice="Player 1 Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
       <player number="2">
         <control name="P2START" voice="Player 2 Start" alwaysActive="1" color="White" inputCodes="KEYCODE_2"/>
-        <control name="COIN2" voice="Player 2 Select" alwaysActive="1" color="Green" inputCodes="KEYCODE_6"/>
         <control name="P2_BUTTON1" voice="Button B" color="Red" alwaysActive="0" inputCodes="KEYCODE_A"/>
         <control name="P2_BUTTON2" voice="Button A" color="Red" alwaysActive="0" inputCodes="KEYCODE_S"/>
+        <control name="P2_BUTTON3" voice="Player 2 Select" alwaysActive="0" color="White" inputCodes="KEYCODE_6"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15490,8 +15525,10 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15520,8 +15557,10 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Black" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Black" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON9" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON10" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
       </player>
     </controlGroup>
   </emulator>
@@ -15534,26 +15573,10 @@
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
       <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
-      </player>
-    </controlGroup>
-  </emulator>
-  <emulator emuname="Nintendo_Game_Boy_(Japan)" emuDesc="">
-    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
-      <player number="0">
-        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
-        <control name="UI_CANCEL" voice="" alwaysActive="1" color="Red" inputCodes="KEYCODE_ESC"/>
-        <control name="UI_PAUSE" voice="" alwaysActive="1" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
-        <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
-      </player>
-      <player number="1">
-        <control name="P1_BUTTON1" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
-        <control name="P1_BUTTON2" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
-        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="Black" inputCodes="KEYCODE_1"/>
-        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="Black" inputCodes="KEYCODE_3"/>
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
       </player>
     </controlGroup>
   </emulator>
@@ -16250,7 +16273,16 @@
         <control name="UI_PAUSE" voice="" alwaysActive="1" color="Yellow" inputCodes="KEY_RLPAUSE|KEY_MAMEPAUSE"/>
         <control name="UI_SELECT" voice="" alwaysActive="1" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
       </player>
-      <player number="1"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT MOUSE BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_C|KEYCODE_X"/>
+        <control name="P1_BUTTON2" voice="RIGHT MOUSE BUTTON" alwaysActive="0" color="Yellow" inputCodes="KEYCODE_LSHIFT|KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="BUTTON B" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON4" voice="BUTTON A" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON5" voice="SELECT BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON7" voice="ESCAPE" alwaysActive="0" color="Orange" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON8" voice="SPACEBAR" alwaysActive="0" color="Orange" inputCodes="KEYCODE_Z"/>
+      </player>
     </controlGroup>
   </emulator>
   <emulator emuname="Sega_32X" emuDesc="" romDefaultNameVoice="1" ignoreGameQuitCommand="0">
@@ -19221,6 +19253,345 @@
         <control name="P1_BUTTON1" voice="A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
         <control name="P1_BUTTON2" voice="B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
       </player>
+    </controlGroup>
+  </emulator>
+  <emulator romDefaultNameVoice="0" ignoreGameQuitCommand="0" emulatorIsMAME="0" emuname="Nintendo_Game_Boy_Color_Hacks" emuDesc="">
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" alwaysActive="0" color="Black" inputCodes="" primaryControl="1"/>
+        <control name="UI_CANCEL" voice="" alwaysActive="0" color="Red" inputCodes="KEYCODE_ESC"/>
+        <control name="UI_SELECT" voice="" alwaysActive="0" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON10" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+  </emulator>
+  <emulator romDefaultNameVoice="0" ignoreGameQuitCommand="0" emulatorIsMAME="0" emuname="Nintendo_Game_Boy_Hacks" emuDesc="">
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+        <control name="CONTROL_JOY8WAY" voice="8-Way Joystick" primaryControl="1" alwaysActive="0" color="" inputCodes=""/>
+        <control name="UI_CANCEL" voice="" alwaysActive="0" color="Red" inputCodes="KEYCODE_ESC"/>
+        <control name="UI_SELECT" voice="" alwaysActive="0" color="Green" inputCodes="KEYCODE_ENTER_PAD"/>
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Button A" alwaysActive="0" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="Button B" alwaysActive="0" color="Red" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON9" voice="Start" alwaysActive="0" color="White" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON10" voice="Select" alwaysActive="0" color="White" inputCodes="KEYCODE_5"/>
+      </player>
+    </controlGroup>
+  </emulator>
+  <emulator emuname="GAME_AND_WATCH" emuDesc="">
+    <controlGroup groupName="TURTLE_BRIDGE_(NINTENDO,_WIDE_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON3" voice="Left" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON4" voice="Right" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="WILD_MAN_JUMP_(VTECH,_ELECTRONIC_TINI-ARCADE)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="TENNIS_MENACE_(VTECH,_SPORTY_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON4" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DEFAULT" voice="" numPlayers="1" alternating="0" jukebox="0" ledwizGlobalPulse="3" defaultActive="48,48,48,48" defaultInactive="0,0,0,0">
+      <player number="0">
+      </player>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="Left" alwaysActive="0" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="Right" alwaysActive="0" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON9" voice="GAME SELECT BUTTON" alwaysActive="1" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON10" voice="START BUTTON" alwaysActive="1" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="ARMOR_BATTLE_(MATTEL_ELECTRONICS)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME LAUNCH" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="BANANA_(VTECH,_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="BOMB_FIGHT_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="CACCIA_AL_LADRO_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="CESSATE_IL_FUOCO_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="SNOOPY_(NINTENDO,_PANORAMA_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="White" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="HIT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="CRAZY_CHEWY_(VTECH,_ELECTRONIC_TINI-ARCADE)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DONKEY_KONG_(COLECO)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="DONKEY_KONG_II_(NINTENDO,_MULTI_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="DONKEY_KONG_JR._(COLECO)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="DUNGEONS_&amp;_DRAGONS_COMPUTER_FANTASY_GAME" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="ATTACK" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="MOVE" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="EGG_(NINTENDO,_WIDE_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+        <control name="P1_BUTTON7" voice="MODE A BUTTON" color="Purple" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON8" voice="MODE B BUTTON" color="Purple" inputCodes="KEYCODE_V"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DUNGEONS_&amp;_DRAGONS_COMPUTER_FANTASY_GAME_(MATTEL_ELECTRONICS,_ARCADE_ACTION_SERIES)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="ATTACK" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="MOVE" color="Red" inputCodes="KEYCODE_COMMA"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="PENGUIN_LAND_(BANDAI,_LSI_GAME_DOUBLE_PLAY)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT SCREEN LEFT" color="Orange" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="LEFT SCREEN RIGHT" color="Orange" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="LEFT SCREEN SHOOT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON4" voice="RIGHT SCREEN LEFT" color="Orange" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="RIGHT SCREEN RIGHT" color="Orange" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON6" voice="RIGHT SCREEN SHOOT" color="Red" inputCodes="KEYCODE_SPACE"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="SLEEP_WALKER_(VTECH,_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="SNOOPY_TENNIS_(NINTENDO,_WIDE_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="UP" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON2" voice="DOWN" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON3" voice="HIT" color="Red" inputCodes="KEYCODE_C"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="SUB_CHASE_(MATTEL_ELECTRONICS)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME LAUNCH" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON3" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MONKEY_JUMP_(VTECH,_ARCADE_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="JUMP" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MOTOR_CROSS_(QUEENTEX)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="PAC_MAN_(TOMYTRONIC)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="0"/>
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTPON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+    </controlGroup>
+    <controlGroup groupName="CHICKY_WOGGY_(VTECH,_ARCADE_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="EXPLORERS_OF_SPACE_(ELEKTRONIKA)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="FOWLING_(ELEKTRONIKA)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="FROG_BOASTER_(ELEKTRONIKA)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="HIPPO_TEETH_(VTECH,_MINI_TIME_&amp;_FUN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="LEFT" color="Red" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON2" voice="RIGHT" color="Red" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON3" voice="SHOOT" color="Orange" inputCodes="KEYCODE_LSHIFT|KEYCODE_X"/>
+        <control name="P1_BUTTON4" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON5" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="GRAB_MAN_(UNKNOWN_MANUFACTURER,_GAME_&amp;_TIME)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON2" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="GALAXY_II_(EPOCH)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="SHOOT" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MARIO_BROS._(NINTENDO,_MULTI_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="TOP LEFT" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="BOTTOM LEFT" color="Red" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON3" voice="TOP RIGHT" color="Red" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="BOTTOM RIGHT" color="Red" inputCodes="KEYCODE_X"/>
+        <control name="P1_BUTTON5" voice="GAME SELECT BUTTON" color="White" inputCodes="KEYCODE_5"/>
+        <control name="P1_BUTTON6" voice="START BUTTON" color="Red" inputCodes="KEYCODE_1"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="MARIO'S_BOMBS_AWAY_(NINTENDO,_PANORAMA_SCREEN)" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="UP DOWN" color="Red" inputCodes="KEYCODE_B"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+  </emulator>
+  <emulator emuname="DOOM" emuDesc="">
+    <controlGroup groupName="DOOM" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="FIRE" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="PREVIOUS WEAPON" color="Lime" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON3" voice="NEXT WEAPON" color="Lime" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="QUICKLOAD" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON5" voice="QUICKSAVE" color="White" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON6" voice="TOGGLE RUN" color="Yellow" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON7" voice="INTERACT" color="Orange" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON8" voice="SHOW MAP" color="Yellow" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
+    </controlGroup>
+    <controlGroup groupName="DOOM2" voice="" numPlayers="1" alternating="0" jukebox="0">
+      <player number="1">
+        <control name="P1_BUTTON1" voice="FIRE" color="Red" inputCodes="KEYCODE_B"/>
+        <control name="P1_BUTTON2" voice="PREVIOUS WEAPON" color="Lime" inputCodes="KEYCODE_COMMA"/>
+        <control name="P1_BUTTON3" voice="NEXT WEAPON" color="Lime" inputCodes="KEYCODE_SPACE"/>
+        <control name="P1_BUTTON4" voice="QUICKLOAD" color="White" inputCodes="KEYCODE_C"/>
+        <control name="P1_BUTTON5" voice="QUICKSAVE" color="White" inputCodes="KEYCODE_V"/>
+        <control name="P1_BUTTON6" voice="TOGGLE RUN" color="Yellow" inputCodes="KEYCODE_LSHIFT"/>
+        <control name="P1_BUTTON7" voice="INTERACT" color="Orange" inputCodes="KEYCODE_Z"/>
+        <control name="P1_BUTTON8" voice="SHOW MAP" color="Yellow" inputCodes="KEYCODE_X"/>
+      </player>
+      <player number="0"/>
     </controlGroup>
   </emulator>
   <frontEnd fename="MaLa">
