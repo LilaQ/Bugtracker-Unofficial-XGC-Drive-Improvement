@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Narazumono Sentou Butai - Bloody Wolf (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Narazumono Sentou Butai - Bloody Wolf (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Narazumono Sentou Butai - Bloody Wolf (Japan).png"
+
+
+
+
+

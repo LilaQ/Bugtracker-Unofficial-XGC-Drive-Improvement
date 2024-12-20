@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Aoi Blink (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Aoi Blink (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Aoi Blink (Japan).png"
+
+
+
+
+

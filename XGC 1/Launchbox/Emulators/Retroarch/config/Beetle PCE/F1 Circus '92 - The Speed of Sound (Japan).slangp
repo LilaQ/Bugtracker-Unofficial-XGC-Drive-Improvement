@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/F1 Circus '92 - The Speed of Sound (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/F1 Circus '92 - The Speed of Sound (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/F1 Circus '92 - The Speed of Sound (Japan).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Shougi Shodan Icchokusen (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Shougi Shodan Icchokusen (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Shougi Shodan Icchokusen (Japan).png"
+
+
+
+
+

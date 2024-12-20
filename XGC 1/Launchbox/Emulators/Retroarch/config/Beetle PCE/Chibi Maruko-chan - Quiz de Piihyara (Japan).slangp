@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Chibi Maruko-chan - Quiz de Piihyara (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Chibi Maruko-chan - Quiz de Piihyara (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Chibi Maruko-chan - Quiz de Piihyara (Japan).png"
+
+
+
+
+

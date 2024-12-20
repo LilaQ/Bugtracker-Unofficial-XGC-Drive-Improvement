@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png"
+
+
+
+
+

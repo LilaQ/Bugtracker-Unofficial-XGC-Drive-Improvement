@@ -1,0 +1,9 @@
+#reference ":/shaders/PCE-CD/XGC_PCEngine-CD_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCE-CD/Kakutou Haou Densetsu Algunos (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCE-CD/Kakutou Haou Densetsu Algunos (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCE-CD/Kakutou Haou Densetsu Algunos (Japan).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/World Circuit (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/World Circuit (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/World Circuit (Japan).png"
+
+
+
+
+

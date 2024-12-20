@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Final Soldier (Japan) (En).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Final Soldier (Japan) (En).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Final Soldier (Japan) (En).png"
+
+
+
+
+

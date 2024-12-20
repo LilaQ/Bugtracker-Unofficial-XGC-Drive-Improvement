@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Necros no Yousai (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Necros no Yousai (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Necros no Yousai (Japan).png"
+
+
+
+
+

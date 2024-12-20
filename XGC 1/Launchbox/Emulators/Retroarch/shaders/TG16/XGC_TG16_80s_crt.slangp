@@ -1,0 +1,4 @@
+#reference ":/shaders/XGC/XGC_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/TG16/Tgrafxreflectionsoutline.png"
+BackgroundImage = ":/overlays/GameBezels/TG16/Tgrafxreflectionsoutline.png"
+TopLayerImage = ":/overlays/GameBezels/TG16/Tgrafxreflectionsoutline.png"

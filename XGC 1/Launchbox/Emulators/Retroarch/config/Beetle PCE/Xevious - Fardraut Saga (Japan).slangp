@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Xevious - Fardraut Saga (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Xevious - Fardraut Saga (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Xevious - Fardraut Saga (Japan).png"
+
+
+
+
+

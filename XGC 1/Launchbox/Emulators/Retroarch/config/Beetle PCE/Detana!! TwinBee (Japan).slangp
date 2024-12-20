@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Detana!! TwinBee (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Detana!! TwinBee (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Detana!! TwinBee (Japan).png"
+
+
+
+
+

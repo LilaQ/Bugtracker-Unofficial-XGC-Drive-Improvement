@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Saigo no Nindou - Ninja Spirit (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Saigo no Nindou - Ninja Spirit (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Saigo no Nindou - Ninja Spirit (Japan).png"
+
+
+
+
+

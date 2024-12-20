@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Break In (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Break In (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Break In (Japan).png"
+
+
+
+
+

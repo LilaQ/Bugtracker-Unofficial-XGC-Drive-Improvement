@@ -1,0 +1,9 @@
+#reference ":/shaders/PCE-CD/XGC_PCEngine-CD_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCE-CD/Doraemon - Nobita no Dorabian Night (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCE-CD/Doraemon - Nobita no Dorabian Night (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCE-CD/Doraemon - Nobita no Dorabian Night (Japan).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Bodycon Quest II (Japan) (Unl).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Bodycon Quest II (Japan) (Unl).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Bodycon Quest II (Japan) (Unl).png"
+
+
+
+
+

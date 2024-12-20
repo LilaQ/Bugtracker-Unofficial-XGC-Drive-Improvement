@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png"
+
+
+
+
+

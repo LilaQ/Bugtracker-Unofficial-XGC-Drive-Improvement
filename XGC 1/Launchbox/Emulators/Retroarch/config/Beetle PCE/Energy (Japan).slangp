@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Energy (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Energy (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Energy (Japan).png"
+
+
+
+
+

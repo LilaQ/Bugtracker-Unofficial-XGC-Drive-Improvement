@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Naxat Stadium (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Naxat Stadium (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Naxat Stadium (Japan).png"
+
+
+
+
+

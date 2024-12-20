@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Space Invaders - Fukkatsu no Hi (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Space Invaders - Fukkatsu no Hi (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Space Invaders - Fukkatsu no Hi (Japan).png"
+
+
+
+
+

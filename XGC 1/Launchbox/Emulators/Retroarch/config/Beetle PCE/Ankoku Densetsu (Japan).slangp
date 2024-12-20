@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Ankoku Densetsu (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Ankoku Densetsu (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Ankoku Densetsu (Japan).png"
+
+
+
+
+

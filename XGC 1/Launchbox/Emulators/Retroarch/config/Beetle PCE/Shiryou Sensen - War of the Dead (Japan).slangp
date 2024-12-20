@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Shiryou Sensen - War of the Dead (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Shiryou Sensen - War of the Dead (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Shiryou Sensen - War of the Dead (Japan).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/AV Poker - World Gambler (Japan) (Unl).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/AV Poker - World Gambler (Japan) (Unl).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/AV Poker - World Gambler (Japan) (Unl).png"
+
+
+
+
+
