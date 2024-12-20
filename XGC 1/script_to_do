@@ -1,0 +1,22 @@
+Atari:
+- remove all game configs and game overrides
+
+Atari 2600:
+- remove all
+
+GameBoy:
+- replace romset (too many JAP dupes in regular set)
+
+ScummVM:
+- missing Indy Atlantis / match up with my scummvm collection
+- german sets as an addition 
+- remove all game shaders
+
+NDS:
+- instert from my private collection (check how dupes / other languages are handled while starting, if they are grouped etc)
+
+
+----------
+
+Complete LaunchBox Marquee update, per system, curated, maybe with EmuMovies connected
+Shitty box marquees auto-process to blurry underlay for correct aspect ratio images
