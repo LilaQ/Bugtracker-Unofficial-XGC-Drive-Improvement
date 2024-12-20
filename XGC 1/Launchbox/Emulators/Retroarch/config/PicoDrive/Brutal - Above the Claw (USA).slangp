@@ -1,0 +1,9 @@
+#reference ":/shaders/Sega32X/XGC_Sega32X_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/Brutal - Above the Claw (USA).png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/Brutal - Above the Claw (USA).png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/Brutal - Above the Claw (USA).png"
+
+
+
+
+
