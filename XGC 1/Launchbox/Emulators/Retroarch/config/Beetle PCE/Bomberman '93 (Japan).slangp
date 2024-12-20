@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Bomberman '93 (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Bomberman '93 (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Bomberman '93 (Japan).png"
+
+
+
+
+

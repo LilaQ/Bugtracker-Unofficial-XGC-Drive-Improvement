@@ -1,0 +1,9 @@
+#reference ":/shaders/PCE-CD/XGC_PCEngine-CD_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCE-CD/Gradius 2 - Gofer no Yabou (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCE-CD/Gradius 2 - Gofer no Yabou (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCE-CD/Gradius 2 - Gofer no Yabou (Japan).png"
+
+
+
+
+

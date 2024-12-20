@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png"
+
+
+
+
+

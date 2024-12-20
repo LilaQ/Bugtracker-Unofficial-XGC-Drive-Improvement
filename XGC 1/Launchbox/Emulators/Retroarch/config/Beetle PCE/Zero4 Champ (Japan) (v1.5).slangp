@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Zero4 Champ (Japan) (v1.5).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Zero4 Champ (Japan) (v1.5).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Zero4 Champ (Japan) (v1.5).png"
+
+
+
+
+

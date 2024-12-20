@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Tricky (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Tricky (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Tricky (Japan).png"
+
+
+
+
+

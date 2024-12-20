@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Splatterhouse (Japan) (En).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Splatterhouse (Japan) (En).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Splatterhouse (Japan) (En).png"
+
+
+
+
+

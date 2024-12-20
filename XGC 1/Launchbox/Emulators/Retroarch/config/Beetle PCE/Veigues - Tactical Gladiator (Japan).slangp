@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Veigues - Tactical Gladiator (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Veigues - Tactical Gladiator (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Veigues - Tactical Gladiator (Japan).png"
+
+
+
+
+

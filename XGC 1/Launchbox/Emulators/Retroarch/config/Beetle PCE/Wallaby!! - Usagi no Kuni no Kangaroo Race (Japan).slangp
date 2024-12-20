@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png"
+
+
+
+
+

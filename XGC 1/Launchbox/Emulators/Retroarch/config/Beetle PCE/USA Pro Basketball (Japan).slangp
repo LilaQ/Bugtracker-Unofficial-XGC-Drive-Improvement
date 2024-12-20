@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/USA Pro Basketball (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/USA Pro Basketball (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/USA Pro Basketball (Japan).png"
+
+
+
+
+

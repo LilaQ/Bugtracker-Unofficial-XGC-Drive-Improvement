@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Tatsujin (Japan) (Beta).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Tatsujin (Japan) (Beta).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Tatsujin (Japan) (Beta).png"
+
+
+
+
+

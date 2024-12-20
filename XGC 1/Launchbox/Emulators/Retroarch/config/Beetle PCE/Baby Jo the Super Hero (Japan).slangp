@@ -1,0 +1,9 @@
+#reference ":/shaders/PCE-CD/XGC_PCEngine-CD_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCE-CD/Baby Jo the Super Hero (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCE-CD/Baby Jo the Super Hero (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCE-CD/Baby Jo the Super Hero (Japan).png"
+
+
+
+
+

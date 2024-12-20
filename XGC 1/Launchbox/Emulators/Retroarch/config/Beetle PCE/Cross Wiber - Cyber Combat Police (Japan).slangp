@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Cross Wiber - Cyber Combat Police (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Cross Wiber - Cyber Combat Police (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Cross Wiber - Cyber Combat Police (Japan).png"
+
+
+
+
+

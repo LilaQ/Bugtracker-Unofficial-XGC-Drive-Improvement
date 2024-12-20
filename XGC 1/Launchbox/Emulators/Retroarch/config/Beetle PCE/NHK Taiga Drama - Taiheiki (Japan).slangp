@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/NHK Taiga Drama - Taiheiki (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/NHK Taiga Drama - Taiheiki (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/NHK Taiga Drama - Taiheiki (Japan).png"
+
+
+
+
+

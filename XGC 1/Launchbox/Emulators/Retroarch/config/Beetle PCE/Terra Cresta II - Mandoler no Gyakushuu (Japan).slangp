@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Terra Cresta II - Mandoler no Gyakushuu (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Terra Cresta II - Mandoler no Gyakushuu (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Terra Cresta II - Mandoler no Gyakushuu (Japan).png"
+
+
+
+
+

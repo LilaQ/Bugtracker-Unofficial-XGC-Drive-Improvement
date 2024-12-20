@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Coryoon - Child of Dragon (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Coryoon - Child of Dragon (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Coryoon - Child of Dragon (Japan).png"
+
+
+
+
+

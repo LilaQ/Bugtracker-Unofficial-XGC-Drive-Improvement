@@ -1,0 +1,9 @@
+#reference ":/shaders/TG-CD/XGC_TG-CD_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/TG-CD/Shadow of the Beast (USA).png"
+BackgroundImage = ":/overlays/GameBezels/TG-CD/Shadow of the Beast (USA).png"
+TopLayerImage = ":/overlays/GameBezels/TG-CD/Shadow of the Beast (USA).png"
+
+
+
+
+

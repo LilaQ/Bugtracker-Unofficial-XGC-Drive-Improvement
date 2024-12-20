@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Legend of Hero Tonma (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Legend of Hero Tonma (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Legend of Hero Tonma (Japan).png"
+
+
+
+
+

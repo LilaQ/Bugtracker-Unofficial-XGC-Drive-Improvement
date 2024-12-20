@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/F1 Triple Battle (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/F1 Triple Battle (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/F1 Triple Battle (Japan).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Time Cruise II (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Time Cruise II (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Time Cruise II (Japan).png"
+
+
+
+
+

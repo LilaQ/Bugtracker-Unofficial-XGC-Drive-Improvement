@@ -1,0 +1,9 @@
+#reference ":/shaders/TG16/XGC_TG16_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/TG16/TV Sports Hockey (USA).png"
+BackgroundImage = ":/overlays/GameBezels/TG16/TV Sports Hockey (USA).png"
+TopLayerImage = ":/overlays/GameBezels/TG16/TV Sports Hockey (USA).png"
+
+
+
+
+

@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/S.C.I. - Special Criminal Investigation (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/S.C.I. - Special Criminal Investigation (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/S.C.I. - Special Criminal Investigation (Japan).png"
+
+
+
+
+

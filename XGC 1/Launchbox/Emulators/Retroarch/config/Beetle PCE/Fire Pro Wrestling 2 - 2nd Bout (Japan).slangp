@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/Fire Pro Wrestling 2 - 2nd Bout (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/Fire Pro Wrestling 2 - 2nd Bout (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/Fire Pro Wrestling 2 - 2nd Bout (Japan).png"
+
+
+
+
+

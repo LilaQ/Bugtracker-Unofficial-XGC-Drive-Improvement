@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/W-Ring - The Double Rings (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/W-Ring - The Double Rings (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/W-Ring - The Double Rings (Japan).png"
+
+
+
+
+

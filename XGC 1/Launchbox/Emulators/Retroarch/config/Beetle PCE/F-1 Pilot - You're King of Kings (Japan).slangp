@@ -1,0 +1,9 @@
+#reference ":/shaders/PCEngine/XGC_PCEngine_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/PCEngine/F-1 Pilot - You're King of Kings (Japan).png"
+BackgroundImage = ":/overlays/GameBezels/PCEngine/F-1 Pilot - You're King of Kings (Japan).png"
+TopLayerImage = ":/overlays/GameBezels/PCEngine/F-1 Pilot - You're King of Kings (Japan).png"
+
+
+
+
+
