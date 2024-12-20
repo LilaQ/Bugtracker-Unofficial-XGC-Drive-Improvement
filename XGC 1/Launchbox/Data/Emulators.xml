@@ -1,185 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <LaunchBox>
   <EmulatorPlatform>
-<<<<<<< Updated upstream
-    <Emulator>5ae1036e-a08e-472f-bed0-92212a05fb67</Emulator>
-    <Platform>Sega Model 3</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>468d658a-b8ee-4253-be67-a1e47ae9dd26</Emulator>
-    <Platform>Arcade</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>87da19ed-e165-4a51-8e7e-f600feb12f57</Emulator>
-    <Platform>Arcade</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>17573d7e-d111-418a-904e-81a52ecb3f13</Emulator>
-    <Platform>Microsoft Xbox</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>222e4280-0903-4f6c-9538-b9cb808aeb02</Emulator>
-    <Platform>Nintendo GameCube</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>222e4280-0903-4f6c-9538-b9cb808aeb02</Emulator>
-    <Platform>Nintendo GameCube Japan</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>222e4280-0903-4f6c-9538-b9cb808aeb02</Emulator>
-    <Platform>Nintendo Wii</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>222e4280-0903-4f6c-9538-b9cb808aeb02</Emulator>
-    <Platform>Nintendo Wiiware</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>dfb242ad-8a19-4a30-b276-5bb10e736474</Emulator>
-    <Platform>Sony Playstation 2</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>a731f770-ba25-479d-a647-bbf385956130</Emulator>
-    <Platform>Nintendo Wii U</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>f6666802-ebab-4619-8aae-a6bd6674b3d9</Emulator>
-    <Platform>Sega Model 3</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>05e59178-03ca-4083-9e9e-a1904109efc1</Emulator>
-    <Platform>Sony Playstation 2</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>4301658b-e07c-4b3b-8b49-b09f93ea2daa</Emulator>
-    <Platform>Sony Playstation 3</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>83a3f24f-4057-4622-8259-07e1d68d9a72</Emulator>
-    <Platform>Arcade</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>83a3f24f-4057-4622-8259-07e1d68d9a72</Emulator>
-    <Platform>Teknoparrot</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>189205fc-ea6f-4c60-8ac6-4ee93b2252c0</Emulator>
-    <Platform>3DO Interactive Multiplayer</Platform>
-    <CommandLine>--StartFullScreen -StartLoadFile</CommandLine>
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>3c82814a-b1e8-49e3-9f0d-5ab1989d6cf9</Emulator>
-    <Platform>Atari Jaguar</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>ade55b0e-c2eb-4e13-91ed-25764b05acfc</Emulator>
-    <Platform>American Laser Games</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>ade55b0e-c2eb-4e13-91ed-25764b05acfc</Emulator>
-    <Platform>Lightguns - Action Max</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>7892dc8e-10ae-4a30-8cee-7576c5be76e6</Emulator>
-    <Platform>Nintendo Switch</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>172cd787-98f0-4b99-b10c-db5b0782916f</Emulator>
-    <Platform>Microsoft Xbox 360</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>172cd787-98f0-4b99-b10c-db5b0782916f</Emulator>
-    <Platform>Microsoft Xbox Live Arcade</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>true</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-=======
->>>>>>> Stashed changes
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>3DO Interactive Multiplayer</Platform>
     <CommandLine>-L "cores\opera_libretro.dll" -c "config\XGC\XGC_3DO.cfg"</CommandLine>
@@ -198,7 +19,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Amstrad GX4000</Platform>
-    <CommandLine>-L "cores\cap32_libretro.dll" -c "config\XGC\XGC_AMSTRAD_GX4000.cfg"</CommandLine>
+    <CommandLine>-L "cores\cap32_libretro.dll" -c "config\XGC\XGC_AMSTRAD_GX4000.cfg" --set-shader XGC__AmstradGX4000_instagram_filter.slangp</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -294,7 +115,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Bally Astrocade</Platform>
-    <CommandLine>-L "cores\mame_libretro.dll" -c config\XGC\XGC_MAME_ASTROCADE.cfg --set-shader XGC_Astrocade_80s_crt.slangp</CommandLine>
+    <CommandLine>-L "cores\mame_libretro.dll" "-ctrl2 joy -cart\"romfile\"" -c config\XGC\XGC_MAME_ASTROCADE.cfg</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -390,7 +211,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Epoch Super Cassette Vision</Platform>
-    <CommandLine>-L "cores\mame_libretro.dll" -c "config\XGC\XGC_MAME_SCV.cfg"</CommandLine>
+    <CommandLine>-L "cores\emuscv_libretro.dll" -c "config\XGC\XGC_EMUSCV.cfg"</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -558,7 +379,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Entertainment System</Platform>
-    <CommandLine>-L "cores\nestopia_libretro.dll" -c "config\XGC\XGC_NES.cfg" --set-shader XGC__NES_instagram_filter.slangp</CommandLine>
+    <CommandLine>-L "cores\nestopia_libretro.dll" -c "config\XGC\XGC_NES.cfg"</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -566,7 +387,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Entertainment System - Hacked Roms</Platform>
-    <CommandLine>-L "cores\nestopia_libretro.dll" -c "config\XGC\XGC_NES_HACKED.cfg" --set-shader XGC__NES_instagram_filter.slangp</CommandLine>
+    <CommandLine>-L "cores\nestopia_libretro.dll" -c "config\XGC\XGC_NES_HACKED.cfg"</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -590,7 +411,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Game Boy</Platform>
-    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY.cfg" --set-shader XGC__GB-dmg-07x.slangp</CommandLine>
+    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY.cfg"</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -622,7 +443,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Game Boy Color</Platform>
-    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\IXGC\XGC_GAME_BOY_COLOR.cfg" --set-shader XGC_GBColor-04x.slangp</CommandLine>
+    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_COLOR.cfg" --set-shader XGC__GBColor-07x.slangp</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -630,7 +451,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Game Boy Color Hacks</Platform>
-    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_COLOR_HACKED.cfg" --set-shader XGC_GBColor-04x.slangp</CommandLine>
+    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_COLOR_HACKED.cfg" --set-shader XGC__GBColor-07x.slangp</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -646,7 +467,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Game Boy Hacks</Platform>
-    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_HACKED.cfg" --set-shader XGC_GB-dmg-04x.slangp</CommandLine>
+    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_HACKED.cfg"</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -654,7 +475,7 @@
   <EmulatorPlatform>
     <Emulator>92c7a55d-fb83-4fa6-a950-f27c62feb486</Emulator>
     <Platform>Nintendo Game Boy Japan</Platform>
-    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_JAPAN.cfg" --set-shader XGC_GB-dmg-04x.slangp</CommandLine>
+    <CommandLine>-L "cores\sameboy_libretro.dll" -c "config\XGC\XGC_GAME_BOY_JAPAN.cfg"</CommandLine>
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
@@ -1068,17 +889,6 @@
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
   <EmulatorPlatform>
-<<<<<<< Updated upstream
-    <Emulator>f00caa40-ed6b-42ef-a933-e07bdf8eb8de</Emulator>
-    <Platform>3D NES</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>dc4ffb3a-e1c1-4e44-9e34-b1f53948b66f</Emulator>
-    <Platform>Sega Model 2</Platform>
-=======
     <Emulator>dfb242ad-8a19-4a30-b276-5bb10e736474</Emulator>
     <Platform>Sony Playstation 2</Platform>
     <CommandLine />
@@ -1089,17 +899,12 @@
   <EmulatorPlatform>
     <Emulator>17573d7e-d111-418a-904e-81a52ecb3f13</Emulator>
     <Platform>Microsoft Xbox</Platform>
->>>>>>> Stashed changes
     <CommandLine />
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
   <EmulatorPlatform>
-<<<<<<< Updated upstream
-    <Emulator>5dfbf72b-4ebb-454e-b51d-4decd4069247</Emulator>
-    <Platform>Microsoft Xbox</Platform>
-=======
     <Emulator>468d658a-b8ee-4253-be67-a1e47ae9dd26</Emulator>
     <Platform>Arcade</Platform>
     <CommandLine />
@@ -1117,31 +922,28 @@
   <EmulatorPlatform>
     <Emulator>4301658b-e07c-4b3b-8b49-b09f93ea2daa</Emulator>
     <Platform>Sony Playstation 3</Platform>
->>>>>>> Stashed changes
     <CommandLine />
     <Default>false</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
   <EmulatorPlatform>
-    <Emulator>06e53a10-0931-4b71-ac02-1e5b186a18cd</Emulator>
-    <Platform>Sony Playstation 3</Platform>
+    <Emulator>ade55b0e-c2eb-4e13-91ed-25764b05acfc</Emulator>
+    <Platform>American Laser Games</Platform>
     <CommandLine />
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
   <EmulatorPlatform>
-    <Emulator>2327be06-7b78-4438-b9ab-02734696e0bb</Emulator>
-    <Platform>G.I. Joe</Platform>
+    <Emulator>ade55b0e-c2eb-4e13-91ed-25764b05acfc</Emulator>
+    <Platform>Lightguns - Action Max</Platform>
     <CommandLine />
     <Default>true</Default>
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
   <EmulatorPlatform>
-<<<<<<< Updated upstream
-=======
     <Emulator>dc4ffb3a-e1c1-4e44-9e34-b1f53948b66f</Emulator>
     <Platform>Sega Model 2</Platform>
     <CommandLine />
@@ -1302,7 +1104,6 @@
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
   <EmulatorPlatform>
->>>>>>> Stashed changes
     <Emulator>2327be06-7b78-4438-b9ab-02734696e0bb</Emulator>
     <Platform>Gamefan Magazine</Platform>
     <CommandLine />
@@ -1318,22 +1119,114 @@
     <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
     <AutoExtract>false</AutoExtract>
   </EmulatorPlatform>
-<<<<<<< Updated upstream
+  <EmulatorPlatform>
+    <Emulator>a731f770-ba25-479d-a647-bbf385956130</Emulator>
+    <Platform>Nintendo Wii U</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>87da19ed-e165-4a51-8e7e-f600feb12f57</Emulator>
+    <Platform>Arcade</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
   <Emulator>
-    <ApplicationPath>Emulators\Supermodel\Supermodel.exe</ApplicationPath>
-    <CommandLine>-fullscreen -force-feedback -new-scsp</CommandLine>
+    <ApplicationPath>Emulators\Retroarch\retroarch.exe</ApplicationPath>
+    <CommandLine />
     <DefaultPlatform />
-    <ID>5ae1036e-a08e-472f-bed0-92212a05fb67</ID>
-    <Title>Supermodel</Title>
+    <ID>92c7a55d-fb83-4fa6-a950-f27c62feb486</ID>
+    <Title>Retroarch</Title>
     <NoQuotes>false</NoQuotes>
     <NoSpace>false</NoSpace>
     <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing Retroarch</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming Retroarch</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; Retroarch loads state with F4 key by default
+Send {F4 down}
+Sleep 50
+Send {F4 up}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; Retroarch saves state with F2 key by default
+Send {F2 down}
+Sleep 50
+Send {F2 up}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; Retroarch resets game with H key by default
+Send {h down}
+Sleep 50
+Send {h up}</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>; No custom exit script is necessary for Retroarch
+; since it already uses the Escape key by default</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emulators\PCSX2_Lightgun\pcsx2.exe</ApplicationPath>
+    <CommandLine>--fullscreen --nogui</CommandLine>
+    <DefaultPlatform />
+    <ID>dfb242ad-8a19-4a30-b276-5bb10e736474</ID>
+    <Title>PCSX2 Lightgun</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This section closes PCSX2 when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing PCSX2</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming PCSX2</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; PCSX2 loads state with F3 key by default
+Send {F3}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; PCSX2 saves state with F1 key by default
+Send {F1}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; Reset Game is not available in PCSX2</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>; PCSX2 has an ugly exit process; this cleans it up visually
+Process, Close, {{{StartupEXE}}}</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emulators\Xemu\xemu.exe</ApplicationPath>
+    <CommandLine>-full-screen -config_path ".\config\xemu.toml" -dvd_path</CommandLine>
+    <DefaultPlatform />
+    <ID>17573d7e-d111-418a-904e-81a52ecb3f13</ID>
+    <Title>Xemu</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>true</HideConsole>
     <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
     <AutoHotkeyScript>Escape::
 {
 	SendInput {ESC}
 	Sleep 2000
-	WinClose, ahk_exe Demulshooter.exe
+	SendInput {ESC}
 	WinClose, ahk_exe {{{StartupEXE}}}
 }
 
@@ -1352,7 +1245,7 @@ ExitApp</AutoHotkeyScript>
     <UseStartupScreen>true</UseStartupScreen>
     <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
     <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
     <DisableShutdownScreen>false</DisableShutdownScreen>
     <AggressiveWindowHiding>false</AggressiveWindowHiding>
     <UsePauseScreen>true</UsePauseScreen>
@@ -1398,410 +1291,6 @@ ExitApp</AutoHotkeyScript>
     <ExitAutoHotkeyScript />
   </Emulator>
   <Emulator>
-    <ApplicationPath>Emulators\MAME\mame.exe</ApplicationPath>
-    <CommandLine>-keyboardprovider dinput</CommandLine>
-    <DefaultPlatform />
-    <ID>87da19ed-e165-4a51-8e7e-f600feb12f57</ID>
-    <Title>MAME</Title>
-    <NoQuotes>true</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>true</HideConsole>
-    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>; This attempts to bypass any nag screens displayed by MAME when starting a game
-WinWait, ahk_exe {{{StartupEXE}}},,60
-if ErrorLevel
-    return
-
-WinWaitActive,,,30
-if ErrorLevel
-     return
-
-Sleep 2000
-SetKeyDelay, 125, 50
-Send, {space 3}</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript>; No script is required for pausing MAME</PauseAutoHotkeyScript>
-    <ResumeAutoHotkeyScript>; No script is required for resuming MAME</ResumeAutoHotkeyScript>
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; MAME loads state with F7, then slot number keys by default
-Send {F7 down}
-Sleep 50
-Send {F7 up}
-Sleep 50
-Send {1 down}
-Sleep 50
-Send {1 up}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; MAME saves state with Shift+F7, then slot number keys by default
-Send {Shift down}
-Sleep 50
-Send {F7 down}
-Sleep 50
-Send {F7 up}
-Sleep 50
-Send {Shift up}
-Sleep 50
-Send {1 down}
-Sleep 50
-Send {1 up}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; MAME resets game with F3 key by default
-Send {F3 down}
-Sleep 50
-Send {F3 up}</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript>; Swapping discs is not relevant for MAME</SwapDiscsAutoHotkeyScript>
-    <ExitAutoHotkeyScript>; No custom exit script is necessary for MAME
-; since it already uses the Escape key by default</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\Xemu\xemu.exe</ApplicationPath>
-    <CommandLine>-full-screen -config_path ".\config\xemu.toml" -dvd_path</CommandLine>
-    <DefaultPlatform />
-    <ID>17573d7e-d111-418a-904e-81a52ecb3f13</ID>
-    <Title>Xemu</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>true</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-	SendInput {ESC}
-	Sleep 2000
-	SendInput {ESC}
-	WinClose, ahk_exe {{{StartupEXE}}}
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>false</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-=======
-  <EmulatorPlatform>
-    <Emulator>a731f770-ba25-479d-a647-bbf385956130</Emulator>
-    <Platform>Nintendo Wii U</Platform>
-    <CommandLine />
-    <Default>true</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
-  <EmulatorPlatform>
-    <Emulator>87da19ed-e165-4a51-8e7e-f600feb12f57</Emulator>
-    <Platform>Arcade</Platform>
-    <CommandLine />
-    <Default>false</Default>
-    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
-    <AutoExtract>false</AutoExtract>
-  </EmulatorPlatform>
->>>>>>> Stashed changes
-  <Emulator>
-    <ApplicationPath>Emulators\Retroarch\retroarch.exe</ApplicationPath>
-    <CommandLine />
-    <DefaultPlatform />
-    <ID>92c7a55d-fb83-4fa6-a950-f27c62feb486</ID>
-    <Title>Retroarch</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript />
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript>; No script is required for pausing Retroarch</PauseAutoHotkeyScript>
-    <ResumeAutoHotkeyScript>; No script is required for resuming Retroarch</ResumeAutoHotkeyScript>
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; Retroarch loads state with F4 key by default
-Send {F4 down}
-Sleep 50
-Send {F4 up}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; Retroarch saves state with F2 key by default
-Send {F2 down}
-Sleep 50
-Send {F2 up}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; Retroarch resets game with H key by default
-Send {h down}
-Sleep 50
-Send {h up}</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript>; No custom exit script is necessary for Retroarch
-; since it already uses the Escape key by default</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\PCSX2_Lightgun\pcsx2.exe</ApplicationPath>
-    <CommandLine>--fullscreen --nogui</CommandLine>
-    <DefaultPlatform />
-    <ID>dfb242ad-8a19-4a30-b276-5bb10e736474</ID>
-    <Title>PCSX2 Lightgun</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>; This section closes PCSX2 when pressing Escape
-$Esc::
-{
-    WinClose, ahk_exe {{{StartupEXE}}}
-}</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript>; No script is required for pausing PCSX2</PauseAutoHotkeyScript>
-    <ResumeAutoHotkeyScript>; No script is required for resuming PCSX2</ResumeAutoHotkeyScript>
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; PCSX2 loads state with F3 key by default
-Send {F3}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; PCSX2 saves state with F1 key by default
-Send {F1}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; Reset Game is not available in PCSX2</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript>; PCSX2 has an ugly exit process; this cleans it up visually
-Process, Close, {{{StartupEXE}}}</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\Xemu\xemu.exe</ApplicationPath>
-    <CommandLine>-full-screen -config_path ".\config\xemu.toml" -dvd_path</CommandLine>
-    <DefaultPlatform />
-    <ID>17573d7e-d111-418a-904e-81a52ecb3f13</ID>
-    <Title>Xemu</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>true</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-	SendInput {ESC}
-	Sleep 2000
-	SendInput {ESC}
-	WinClose, ahk_exe {{{StartupEXE}}}
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-<<<<<<< Updated upstream
-    <PauseAutoHotkeyScript>; No script is required for pausing Dolphin</PauseAutoHotkeyScript>
-    <ResumeAutoHotkeyScript>; No script is required for resuming Dolphin</ResumeAutoHotkeyScript>
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; Dolphin loads state with F1 key by default
-Send {F1 down}
-Sleep 50
-Send {F1 up}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; Dolphin saves state with Shift+F1 keys by default
-Send {Shift down}
-Sleep 50
-Send {F1 down}
-Sleep 50
-Send {F1 up}
-Sleep 50
-Send {Shift up}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; PLEASE READ: Dolphin does not have a reset key bound by default!
-; You must go to Options &gt; Hotkey Settings in Dolphin.
-; Bind the R key to the Reset option in order for this to work!
-Send {r down}
-Sleep 50
-Send {r up}</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript>; No custom exit script is necessary for Dolphin
-; since it already uses the Escape key by default</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\PCSX2_Lightgun\pcsx2.exe</ApplicationPath>
-    <CommandLine>--fullscreen --nogui</CommandLine>
-    <DefaultPlatform />
-    <ID>dfb242ad-8a19-4a30-b276-5bb10e736474</ID>
-    <Title>PCSX2 Lightgun</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>; This section closes PCSX2 when pressing Escape
-$Esc::
-{
-    WinClose, ahk_exe {{{StartupEXE}}}
-}</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript>; No script is required for pausing PCSX2</PauseAutoHotkeyScript>
-    <ResumeAutoHotkeyScript>; No script is required for resuming PCSX2</ResumeAutoHotkeyScript>
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; PCSX2 loads state with F3 key by default
-Send {F3}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; PCSX2 saves state with F1 key by default
-Send {F1}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; Reset Game is not available in PCSX2</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript>; PCSX2 has an ugly exit process; this cleans it up visually
-Process, Close, {{{StartupEXE}}}</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\cemu\Cemu.exe</ApplicationPath>
-    <CommandLine>-f -g</CommandLine>
-    <DefaultPlatform />
-    <ID>a731f770-ba25-479d-a647-bbf385956130</ID>
-    <Title>Cemu</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-	WinClose, ahk_exe {{{StartupEXE}}}
-	Sleep 2000
-	SendInput {ESC}
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-=======
->>>>>>> Stashed changes
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>false</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\Supermodel Games\supermodel.exe</ApplicationPath>
-    <CommandLine>-fullscreen -force-feedback -new-scsp -input-system=xinput</CommandLine>
-    <DefaultPlatform />
-    <ID>f6666802-ebab-4619-8aae-a6bd6674b3d9</ID>
-    <Title>Supermodel Games</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-	SendInput {ESC}
-	Sleep 2000
-	WinClose, ahk_exe {{{StartupEXE}}}
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
     <ApplicationPath>Emulators\3dNES\3DNesPro.exe</ApplicationPath>
     <CommandLine>-adapter 0 --r=</CommandLine>
     <DefaultPlatform />
@@ -1823,62 +1312,8 @@ ExitApp</AutoHotkeyScript>
     <PauseAutoHotkeyScript />
     <ResumeAutoHotkeyScript />
     <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-<<<<<<< Updated upstream
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; PCSX2 loads state with F3 key by default
-Send {F3}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; PCSX2 saves state with F1 key by default
-Send {F1}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; Reset Game is not available in PCSX2</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript>; PCSX2 has an ugly exit process; this cleans it up visually
-Process, Close, {{{StartupEXE}}}</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>E:\Emulators\RPCS3\rpcs3.exe</ApplicationPath>
-    <CommandLine>--no-gui</CommandLine>
-    <DefaultPlatform />
-    <ID>4301658b-e07c-4b3b-8b49-b09f93ea2daa</ID>
-    <Title>RPCS3</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-    Process, Close, rpcs3.exe
-    Run, taskkill /im "rpcs3.exe" /F,, Hide
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-=======
     <SuspendProcessOnPause>false</SuspendProcessOnPause>
     <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
->>>>>>> Stashed changes
     <LoadStateAutoHotkeyScript />
     <SaveStateAutoHotkeyScript />
     <ResetAutoHotkeyScript />
@@ -1886,19 +1321,11 @@ ExitApp</AutoHotkeyScript>
     <ExitAutoHotkeyScript />
   </Emulator>
   <Emulator>
-<<<<<<< Updated upstream
-    <ApplicationPath>Emulators\Teknoparrot\TeknoParrotUi.exe</ApplicationPath>
-    <CommandLine />
-    <DefaultPlatform />
-    <ID>83a3f24f-4057-4622-8259-07e1d68d9a72</ID>
-    <Title>Teknoparrot</Title>
-=======
     <ApplicationPath>E:\Emulators\RPCS3\rpcs3.exe</ApplicationPath>
     <CommandLine>--no-gui</CommandLine>
     <DefaultPlatform />
     <ID>4301658b-e07c-4b3b-8b49-b09f93ea2daa</ID>
     <Title>RPCS3</Title>
->>>>>>> Stashed changes
     <NoQuotes>false</NoQuotes>
     <NoSpace>false</NoSpace>
     <HideConsole>false</HideConsole>
@@ -1948,263 +1375,6 @@ ExitApp</AutoHotkeyScript>
     <NoQuotes>false</NoQuotes>
     <NoSpace>false</NoSpace>
     <HideConsole>true</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>$Esc::WinClose, ahk_exe {{{StartupEXE}}}</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>false</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\4DO\4DO.exe</ApplicationPath>
-    <CommandLine>--StartFullScreen -StartLoadFile</CommandLine>
-    <DefaultPlatform />
-    <ID>189205fc-ea6f-4c60-8ac6-4ee93b2252c0</ID>
-    <Title>4DO</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>; This section closes 4DO when pressing Escape
-$Esc::
-{
-    WinClose, ahk_exe {{{StartupEXE}}}
-}</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\BigPEmu\BigPEmu.exe</ApplicationPath>
-    <CommandLine>%romfile% -localdata</CommandLine>
-    <DefaultPlatform />
-    <ID>3c82814a-b1e8-49e3-9f0d-5ab1989d6cf9</ID>
-    <Title>BigPEmu</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript />
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>false</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\Singe2\Singe-v2.00-Windows-x86_64.exe</ApplicationPath>
-    <CommandLine>-k -w -z</CommandLine>
-    <DefaultPlatform />
-    <ID>ade55b0e-c2eb-4e13-91ed-25764b05acfc</ID>
-    <Title>Singe2</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>true</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>$Esc::WinClose, ahk_exe {{{StartupEXE}}}</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>false</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>false</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>E:\Emulators\Yuzu\yuzu.exe</ApplicationPath>
-    <CommandLine>-f -g</CommandLine>
-    <DefaultPlatform />
-    <ID>7892dc8e-10ae-4a30-8cee-7576c5be76e6</ID>
-    <Title>Yuzu</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-    Process, Close, yuzu.exe
-    Run, taskkill /im "yuzu.exe" /F,, Hide
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>false</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\Xenia\xenia.exe</ApplicationPath>
-    <CommandLine />
-    <DefaultPlatform />
-    <ID>172cd787-98f0-4b99-b10c-db5b0782916f</ID>
-    <Title>Xenia</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-{
-	SendInput {ESC}
-	Sleep 2000
-	WinClose, ahk_exe {{{StartupEXE}}}
-}
-
-If WinExist("LaunchBox")
-{
- WinActivate
-}
-
-If WinExist("LaunchBox BigBox")
-{
- WinActivate
-}
-
-ExitApp</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\Retroarch\retroarch.exe</ApplicationPath>
-    <CommandLine />
-    <DefaultPlatform />
-    <ID>92c7a55d-fb83-4fa6-a950-f27c62feb486</ID>
-    <Title>Retroarch</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript />
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript>; No script is required for pausing Retroarch</PauseAutoHotkeyScript>
-    <ResumeAutoHotkeyScript>; No script is required for resuming Retroarch</ResumeAutoHotkeyScript>
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript>; Retroarch loads state with F4 key by default
-Send {F4 down}
-Sleep 50
-Send {F4 up}</LoadStateAutoHotkeyScript>
-    <SaveStateAutoHotkeyScript>; Retroarch saves state with F2 key by default
-Send {F2 down}
-Sleep 50
-Send {F2 up}</SaveStateAutoHotkeyScript>
-    <ResetAutoHotkeyScript>; Retroarch resets game with H key by default
-Send {h down}
-Sleep 50
-Send {h up}</ResetAutoHotkeyScript>
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript>; No custom exit script is necessary for Retroarch
-; since it already uses the Escape key by default</ExitAutoHotkeyScript>
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\3dNES\3DNesPro.exe</ApplicationPath>
-    <CommandLine>-adapter 0 --r=</CommandLine>
-    <DefaultPlatform />
-    <ID>f00caa40-ed6b-42ef-a933-e07bdf8eb8de</ID>
-    <Title>3DNES</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>true</NoSpace>
-    <HideConsole>false</HideConsole>
     <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
     <AutoHotkeyScript>$Esc::WinClose, ahk_exe {{{StartupEXE}}}</AutoHotkeyScript>
     <AutoExtract>false</AutoExtract>
@@ -2292,10 +1462,6 @@ Send {F3 up}</ResetAutoHotkeyScript>
 ; since it is triggered by the default Running AutoHotkey script</ExitAutoHotkeyScript>
   </Emulator>
   <Emulator>
-<<<<<<< Updated upstream
-    <ApplicationPath>Emulators\cxbx\cxbxr-ldr.exe</ApplicationPath>
-    <CommandLine>/load</CommandLine>
-=======
     <ApplicationPath>Emulators\Supermodel\Supermodel.exe</ApplicationPath>
     <CommandLine>-fullscreen -force-feedback -new-scsp</CommandLine>
     <DefaultPlatform />
@@ -2791,56 +1957,19 @@ Send {h up}</ResetAutoHotkeyScript>
   <Emulator>
     <ApplicationPath>Emulators\Supermodel Games\supermodel.exe</ApplicationPath>
     <CommandLine>-fullscreen -force-feedback -new-scsp -input-system=xinput</CommandLine>
->>>>>>> Stashed changes
     <DefaultPlatform />
-    <ID>5dfbf72b-4ebb-454e-b51d-4decd4069247</ID>
-    <Title>Cxbx-Reloaded</Title>
-    <NoQuotes>false</NoQuotes>
-    <NoSpace>false</NoSpace>
-    <HideConsole>false</HideConsole>
-    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
-    <AutoHotkeyScript>Escape::
-    Process, Close, cxbxr-ldr.exe
-    Run, taskkill /im "cxbx.exe" /F,, Hide
-    Process, Close, cxbx.exe
-    Process, Close, DemulShooter.exe
-    Run, taskkill /im "DemulShooter.exe" /F,, Hide</AutoHotkeyScript>
-    <AutoExtract>false</AutoExtract>
-    <UseStartupScreen>true</UseStartupScreen>
-    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
-    <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>true</HideMouseCursorInGame>
-    <DisableShutdownScreen>false</DisableShutdownScreen>
-    <AggressiveWindowHiding>false</AggressiveWindowHiding>
-    <UsePauseScreen>true</UsePauseScreen>
-    <PauseAutoHotkeyScript />
-    <ResumeAutoHotkeyScript />
-    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
-    <SuspendProcessOnPause>true</SuspendProcessOnPause>
-    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
-    <LoadStateAutoHotkeyScript />
-    <SaveStateAutoHotkeyScript />
-    <ResetAutoHotkeyScript />
-    <SwapDiscsAutoHotkeyScript />
-    <ExitAutoHotkeyScript />
-  </Emulator>
-  <Emulator>
-    <ApplicationPath>Emulators\RPCS3\rpcs3.exe</ApplicationPath>
-    <CommandLine>--no-gui</CommandLine>
-    <DefaultPlatform />
-    <ID>06e53a10-0931-4b71-ac02-1e5b186a18cd</ID>
-    <Title>RPCS3 Lightguns</Title>
+    <ID>f6666802-ebab-4619-8aae-a6bd6674b3d9</ID>
+    <Title>Supermodel Games</Title>
     <NoQuotes>false</NoQuotes>
     <NoSpace>false</NoSpace>
     <HideConsole>false</HideConsole>
     <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
     <AutoHotkeyScript>Escape::
 {
-    Process, Close, rpcs3.exe
-    Run, taskkill /im "rpcs3.exe" /F,, Hide
+	SendInput {ESC}
+	Sleep 2000
+	WinClose, ahk_exe {{{StartupEXE}}}
 }
-
-l::RButton
 
 If WinExist("LaunchBox")
 {
@@ -2857,7 +1986,7 @@ ExitApp</AutoHotkeyScript>
     <UseStartupScreen>true</UseStartupScreen>
     <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
     <StartupLoadDelay>5000</StartupLoadDelay>
-    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
     <DisableShutdownScreen>false</DisableShutdownScreen>
     <AggressiveWindowHiding>false</AggressiveWindowHiding>
     <UsePauseScreen>true</UsePauseScreen>
@@ -2922,8 +2051,6 @@ ExitApp</AutoHotkeyScript>
     <SwapDiscsAutoHotkeyScript />
     <ExitAutoHotkeyScript />
   </Emulator>
-<<<<<<< Updated upstream
-=======
   <Emulator>
     <ApplicationPath>Emulators\cemu\Cemu.exe</ApplicationPath>
     <CommandLine>-f -g</CommandLine>
@@ -3034,5 +2161,4 @@ Send {F3 up}</ResetAutoHotkeyScript>
     <ExitAutoHotkeyScript>; No custom exit script is necessary for MAME
 ; since it already uses the Escape key by default</ExitAutoHotkeyScript>
   </Emulator>
->>>>>>> Stashed changes
 </LaunchBox>
