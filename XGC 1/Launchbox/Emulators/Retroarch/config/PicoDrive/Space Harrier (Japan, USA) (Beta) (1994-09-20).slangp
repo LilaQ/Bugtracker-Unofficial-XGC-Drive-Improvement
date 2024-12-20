@@ -1,0 +1,9 @@
+#reference ":/shaders/Sega32X/XGC_Sega32X_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/Space Harrier (Japan, USA) (Beta) (1994-09-20).png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/Space Harrier (Japan, USA) (Beta) (1994-09-20).png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/Space Harrier (Japan, USA) (Beta) (1994-09-20).png"
+
+
+
+
+

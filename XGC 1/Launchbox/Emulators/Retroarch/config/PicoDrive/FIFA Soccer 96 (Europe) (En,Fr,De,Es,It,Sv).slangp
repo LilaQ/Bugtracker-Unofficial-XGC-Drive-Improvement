@@ -1,0 +1,9 @@
+#reference ":/shaders/Sega32X/XGC_Sega32X_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png"
+
+
+
+
+

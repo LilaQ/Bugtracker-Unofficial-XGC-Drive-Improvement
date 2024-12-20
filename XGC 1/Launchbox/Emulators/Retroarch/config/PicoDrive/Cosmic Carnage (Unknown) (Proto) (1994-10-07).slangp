@@ -1,0 +1,9 @@
+#reference ":/shaders/Sega32X/XGC_Sega32X_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/Cosmic Carnage (Unknown) (Proto) (1994-10-07).png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/Cosmic Carnage (Unknown) (Proto) (1994-10-07).png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/Cosmic Carnage (Unknown) (Proto) (1994-10-07).png"
+
+
+
+
+

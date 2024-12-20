@@ -1,0 +1,4 @@
+#reference ":/shaders/XGC/XGC_90s_flatscreen.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/32x.png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/32x.png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/32x.png"

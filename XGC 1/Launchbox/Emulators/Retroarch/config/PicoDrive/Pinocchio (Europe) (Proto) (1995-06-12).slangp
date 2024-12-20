@@ -1,0 +1,9 @@
+#reference ":/shaders/Sega32X/XGC_Sega32X_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/Pinocchio (Europe) (Proto) (1995-06-12).png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/Pinocchio (Europe) (Proto) (1995-06-12).png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/Pinocchio (Europe) (Proto) (1995-06-12).png"
+
+
+
+
+

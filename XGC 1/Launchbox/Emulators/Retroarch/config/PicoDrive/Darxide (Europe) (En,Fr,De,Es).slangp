@@ -1,0 +1,9 @@
+#reference ":/shaders/Sega32X/XGC_Sega32X_80s_crt.slangp"
+ScreenPlacementImage = ":/overlays/GameBezels/Sega32X/Darxide (Europe) (En,Fr,De,Es).png"
+BackgroundImage = ":/overlays/GameBezels/Sega32X/Darxide (Europe) (En,Fr,De,Es).png"
+TopLayerImage = ":/overlays/GameBezels/Sega32X/Darxide (Europe) (En,Fr,De,Es).png"
+
+
+
+
+
